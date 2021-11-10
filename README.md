@@ -20,4 +20,4 @@ Assuming the files are located under `c:\SampleApp`
 
 # Contributors
 
-Initially contributed by @andrewjboyd . Thanks @andrewjboyd!
+Initially contributed by [@andrewjboyd](https://github.com/andrewjboyd). Thanks Andrew!
