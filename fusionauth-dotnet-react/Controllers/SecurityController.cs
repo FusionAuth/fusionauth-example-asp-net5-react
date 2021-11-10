@@ -78,7 +78,7 @@ namespace fusionauth_dotnet_react.Controllers
                 HttpContext.Session.SetString(SessionKeys.Token, tokenResponse.access_token);
                 HttpContext.Session.SetString(SessionKeys.RefreshToken, tokenResponse.refresh_token);
 
-                return Ok();
+                return Redirect($"{Request.Scheme}://{Request.Host}{Request.PathBase}");
             }
 
             return BadRequest();
