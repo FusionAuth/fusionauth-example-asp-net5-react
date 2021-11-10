@@ -16,3 +16,8 @@ Assuming the files are located under `c:\SampleApp`
 - In one console window, navigate to `c:\SampleApp\ClientApp`, run the React App: `npm start` (don't forget to do a `npm install`)
 - In another console window, navigate to `c:\SampleApp\`, run the web application: `dotnet run`
 - Visit the local webserver at https://localhost:5001/ and sign in.
+
+
+# Contributors
+
+Initially contributed by @andrewjboyd . Thanks @andrewjboyd!
