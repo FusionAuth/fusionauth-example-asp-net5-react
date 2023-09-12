@@ -1,3 +1,5 @@
+**This repo is out of date and is archived. Check out [an updated tutorial on using FusionAuth with React](https://fusionauth.io/docs/quickstarts/quickstart-javascript-react-web) or [the updated GitHub repository](https://github.com/fusionauth/fusionauth-quickstart-javascript-react-web).**
+
 # Example ASP.NET Core React SPA Application
 
 An ASP.NET Core React SPA application using FusionAuth as the identity server. This application will use a OAuth Authorization Code workflow to log users in.
